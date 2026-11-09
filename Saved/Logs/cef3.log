@@ -1,0 +1,67 @@
+[9896:12716:1107/004852.502:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9896:17056:1107/004852.535:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9896:12716:1107/004852.648:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14380:16572:1107/004901.724:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D954040D00B32B6F3FB25E36AC34848E will be ignored
+[11192:9888:1107/004902.247:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11192:3204:1107/004902.380:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11192:3204:1107/004902.380:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11192:3204:1107/004902.390:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17032:15388:1107/004904.380:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17032:15388:1107/004904.428:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[9896:17116:1107/004905.253:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[9896:17116:1107/004905.425:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9896:12716:1107/004905.427:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9896:12716:1107/004905.427:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9896:12716:1107/004905.427:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9896:12716:1107/004905.427:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15400:14780:1107/004908.616:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15400:15052:1107/004909.010:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15400:15052:1107/004909.010:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15400:15052:1107/004909.011:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17032:15388:1107/004912.546:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15400:14780:1107/004913.906:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17032:15388:1107/004922.762:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14356:19344:1107/005119.097:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14356:19344:1107/005119.097:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17032:3868:1107/144334.063:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144334.063:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144339.114:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144339.114:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144349.115:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144349.128:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144409.118:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144409.143:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:7164:1107/144605.399:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144605.406:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144607.271:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144607.273:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144610.048:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:5864:1107/144610.052:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144610.060:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:5864:1107/144610.063:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144615.062:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144615.065:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144615.629:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144615.630:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144618.407:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:5864:1107/144618.418:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:8592:1107/144618.419:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144623.420:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144623.435:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144633.421:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:7164:1107/144633.450:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:8592:1107/144646.411:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144646.411:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144649.181:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:5864:1107/144649.181:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144649.191:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144649.192:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144654.194:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:3868:1107/144654.203:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9896:11764:1107/144704.195:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:14812:1107/144704.214:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17032:15388:1107/144925.622:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17032:15388:1107/144926.279:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17032:15388:1107/144938.282:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17032:15388:1107/144952.619:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[9896:12716:1108/180208.382:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
